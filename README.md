@@ -46,7 +46,8 @@ Steps Taken:
 ![image](https://user-images.githubusercontent.com/105611668/209470618-a87581a6-5030-4720-aef6-e9d6c79ec91b.png)
 ![image](https://user-images.githubusercontent.com/105611668/209470624-3b6b132c-f6c4-4dc2-9d0e-64d5feb9c85a.png)
 
-•	Converted categorical data to numeric with pd.get_dummies, split the preprocessed data into features and target arrays, then lastly split into training and testing datasets 
+•	Converted categorical data to numeric with pd.get_dummies, split the preprocessed data into features and target arrays, then lastly split into training and testing datasets
+
 ![image](https://user-images.githubusercontent.com/105611668/209470649-7a02c4da-db82-451a-b8df-571993aaf9e0.png)
 ![image](https://user-images.githubusercontent.com/105611668/209470653-ec515772-8c26-4e65-b70f-cecafdf47a6f.png)
 
