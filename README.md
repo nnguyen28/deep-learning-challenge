@@ -31,3 +31,8 @@ ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
 Steps Taken:
+
+1: Data Preprocessing
+•	Dataset was checked for null and duplicated values 
+![image](https://user-images.githubusercontent.com/105611668/209470508-e1068f6e-7070-4f69-a455-af078524268c.png)
+
